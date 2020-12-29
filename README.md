@@ -1,1 +1,1 @@
-#python3 illyasviel
+python3 illyasviel.py
